@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 🌱 I’m currently learning **Angular, React.js, Vue.js, Node.js, jQuery, Express.js, Next.js.**
+- 🌱 I’m currently learning **DSA in C++ and Rust**
 
 - 💬 Ask me about **Vue.js, Node.js, jQuery**
 
