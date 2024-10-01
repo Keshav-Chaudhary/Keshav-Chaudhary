@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Keshav</h1>
-<h3 align="center">Passionate and driven first-year Computer Science student at IIIT Delhi, with a strong desire for coding excellence</h3>
+<h3 align="center">Passionate and driven Computer Science student at IIIT Delhi, with a strong desire for coding excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav-chaudhary&label=Profile%20views&color=ff0f83&style=flat" alt="keshav-chaudhary" /> </p>
 
