@@ -7,13 +7,15 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 🌱 I’m currently learning **DSA in C++ and Rust**
+<div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
 
-- 💬 Ask me about **Vue.js, Node.js, jQuery**
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+</details>
 
-- 📫 How to reach me **skeshav15april@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/keshav-chaudhary283/](https://www.linkedin.com/in/keshav-chaudhary283/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
